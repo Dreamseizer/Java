@@ -12,4 +12,5 @@ package nuevo;
 public class aitor {
     private String prueba;
     private int pulgada;
+    private String nombre; //Modificacion Alex
 }
