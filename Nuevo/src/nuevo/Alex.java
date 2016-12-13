@@ -15,5 +15,6 @@ public class Alex {
         int n2=7;
         int resultado=n1+n2;
         System.out.println("La suma de "+n1+" y "+n2+" es igual a "+resultado);
+        System.out.println("Aitor modifica archivo de Alex.");
     }
 }
