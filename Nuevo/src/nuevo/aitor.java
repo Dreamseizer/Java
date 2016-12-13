@@ -10,5 +10,5 @@ package nuevo;
  * @author 1DAM
  */
 public class aitor {
-    private String ejemplo;
+    private String prueba;
 }
