@@ -17,5 +17,6 @@ public class Alex {
         System.out.println("La suma de "+n1+" y "+n2+" es igual a "+resultado);
         System.out.println("Aitor modifica archivo de Alex.");
         System.out.println("Antonio modifica el ejercicio de Rafa");
+        System.out.println("modifico rama alex- Rafa");
     }
 }
