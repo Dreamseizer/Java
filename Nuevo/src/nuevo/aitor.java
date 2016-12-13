@@ -11,4 +11,5 @@ package nuevo;
  */
 public class aitor {
     private String prueba;
+    private int pulgada;
 }
