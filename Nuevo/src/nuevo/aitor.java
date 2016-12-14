@@ -14,4 +14,5 @@ public class aitor {
     private int pulgada;
     private String nombre; //Modificacion Alex
     int numero1=50;
+    double temperatura;
 }
